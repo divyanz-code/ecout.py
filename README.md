@@ -1,4 +1,4 @@
-# eCourts India - Case Listing Fetcher Tool
+# eCourts India - Case Listing Fetcher Tools
 
 A Python command-line tool to help interact with eCourts India services. This tool fetches metadata and provides structured instructions for case searches that require CAPTCHA verification.
 
